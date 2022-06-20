@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MingyuanRen
-- 👀 I’m interested in Data Science and machine learning.
-- 🌱 I’m currently learning Computing and Financial Management (Computer Science and Finance Major) 2B in university of Waterloo
+- 👀 I’m interested in Full stack development and Machine learning.
+- 🌱 I’m currently learning Computing and Financial Management (Computer Science and Finance Major) 3A in university of Waterloo
 - 📫 How to reach me m28ren@uwaterloo.ca / [Linkedin](linkedin.com/in/mingyuan-ren-499729216)
 
 <!---
