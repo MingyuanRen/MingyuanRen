@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MingyuanRen 
-- 👀 I’m interested in Full Stack, Infrastructure and Machine learning.
+- 👀 I’m interested in Infrastructure, Machine learning(NLP, MLops, MLinfra), Full Stack development.
 - 🌱 I’m currently studying Computer Science 3B in university of Waterloo
 - 📫 How to reach me m28ren@uwaterloo.ca / [Linkedin](https://www.linkedin.com/in/mingyuan-ren-499729216/)
 
